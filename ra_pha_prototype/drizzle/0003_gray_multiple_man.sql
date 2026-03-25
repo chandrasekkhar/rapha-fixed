@@ -1,0 +1,1 @@
+ALTER TABLE `payments` MODIFY COLUMN `stripeSessionId` varchar(255) NOT NULL;

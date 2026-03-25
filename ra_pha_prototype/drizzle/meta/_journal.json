@@ -1,0 +1,90 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762442989559,
+      "tag": "0000_faulty_living_tribunal",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1762443014172,
+      "tag": "0001_easy_rawhide_kid",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1762443816168,
+      "tag": "0002_needy_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1762443884117,
+      "tag": "0003_gray_multiple_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1765173018468,
+      "tag": "0004_yummy_wolf_cub",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1765519194590,
+      "tag": "0005_dashing_pete_wisdom",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1765642231002,
+      "tag": "0006_wandering_killer_shrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1771317638509,
+      "tag": "0007_material_the_order",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1771317716775,
+      "tag": "0008_overconfident_quasar",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1772434444263,
+      "tag": "0009_loving_scorpion",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1772434869197,
+      "tag": "0010_tidy_hercules",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "5",
+      "when": 1772524834688,
+      "tag": "0011_flowery_alice",
+      "breakpoints": true
+    }
+  ]
+}
